@@ -5,7 +5,6 @@ A modern, pixel-perfect clone of a Figma landing page using **Next.js**, **Tailw
 ## 🌐 Live Demo
 
 🔗 [Live Site](https://figma-clone-beauty.netlify.app/)  
-_(Replace with your actual deployment URL)_
 
 ## ⚙️ Tech Stack
 
